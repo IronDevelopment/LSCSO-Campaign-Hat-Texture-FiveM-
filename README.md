@@ -8,6 +8,12 @@ https://www.lcpdfr.com/downloads/gta5mods/character/8151-emergency-uniforms-pack
 
 Basic Black campaign Hat with a white trim around the hat. The hat also comes with an LSCSO Badge that replaces the standard BCSO/SAHP Badge.
 
+Images:
+
+https://gyazo.com/2dbfba49db7116985f5b8035f37c55a1
+
+https://gyazo.com/f3527b36d6250b5cc1ad15e7807f8f81
+
 ---------------------------------------------------------------- 
 
 Installation:
