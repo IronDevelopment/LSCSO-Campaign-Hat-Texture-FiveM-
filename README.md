@@ -1,4 +1,6 @@
-# LSCSO-Campaign-Hat-Texture-FiveM-
+# LSCSO-Campaign-Hat-FiveM-
+
+Comes With Hat Model.
 LSCSO Campaign Hat Texture which is FiveM ready. Simply Drag and drop into your FiveM eup-stream Folder.
 LSCSO Campaign Hat Texture made by viS, Iron Development.
 ----------------------------------------------------------------
